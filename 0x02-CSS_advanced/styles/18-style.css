@@ -143,7 +143,7 @@ a:active {
 }
 
 .nav .nav-link {
-    display: block;
+    /*display: block;*/
     /*padding: .5rem 1rem .5rem 1rem;*/
 }
 
