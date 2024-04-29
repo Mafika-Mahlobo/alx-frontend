@@ -155,7 +155,7 @@ a:active {
 
 ul.row {
     margin: 0;
-    padding: 0;
+    padding: none;
     list-style: none;
 }
 
