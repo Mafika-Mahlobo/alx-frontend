@@ -183,7 +183,7 @@ ul.footer {
 
 .row::after {
     content: "";
-    display: "";
+    display: table;
     clear: both;
 }
 
